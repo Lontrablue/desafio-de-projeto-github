@@ -13,3 +13,5 @@ Instalação JDK e Git no Windows
   Baixar o JDK extrair numa pasta chamada java nos arquivos de programas do C: ; copiar o endereço; abrir "editar variáveis de ambiente de sistema"/avançado/variáveis de ambiente.
 
   criar uma nova variável de ambiente chamada JAVA_HOME com o endereço do JDK;e criar um novo path com o endereço + "\bin" e joga-lo la para o topo
+  
+- testando.
