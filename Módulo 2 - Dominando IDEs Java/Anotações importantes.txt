@@ -15,3 +15,10 @@ Instalação JDK e Git no Windows
   criar uma nova variável de ambiente chamada JAVA_HOME com o endereço do JDK;e criar um novo path com o endereço + "\bin" e joga-lo la para o topo
   
 - testando.
+
+
+
+No intelliJ, usar bastante o alt+insert para receber ajuda do IDE.
+
+Vi na aula que é possível dar commit e push para o github de varias maneiras diferentes. Nenhuma das maneiras que usavam diretamente botoes de dentro da IDE foi fácil pra mim. Acabei criando outra branch e por ter conhecimento zero demorei um pouco até entender todos os problemas que tive com isso e com autenticação hhtps, .ssg, temp key e etc.
+Pelo terminal git, nao tive problemas. consegui aprender a mudar de branch e dar push em projetos que fora do git, recebia mensagens de erro e falta de conectividade com um repositório. Com o tempo as informações estão se conectando e fazendo mais sentido. Mas ainda tenho muito o que aprender antes de dominar todos os ângulos do versionamento dos projetos.
