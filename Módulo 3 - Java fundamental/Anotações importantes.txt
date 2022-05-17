@@ -1,0 +1,1 @@
+A forma mais comum da criação de um método é public static R N (P) {...}
