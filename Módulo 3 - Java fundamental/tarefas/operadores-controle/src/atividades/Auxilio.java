@@ -33,7 +33,7 @@ public class Auxilio {
         return (salarioAbaixo && muitosDependentes);
     }
 
-    public static void imprimir(){
+    public static void imprimirResultadoAuxilio(){
         System.out.println("A elegibiliade do auxilio é "+recebeAuxilio());
     }
 }
