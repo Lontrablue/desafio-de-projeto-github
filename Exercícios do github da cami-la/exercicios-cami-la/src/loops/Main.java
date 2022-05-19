@@ -1,5 +1,6 @@
 package loops;
 
+import arrays.Consoantes;
 import arrays.ListaInversa;
 
 public class Main {
@@ -8,6 +9,7 @@ public class Main {
         // Nota.nota();
         //MaiorMedia.maiorMedia();
         //ParImpar.parImpar();
-        ListaInversa.listaInversa();
+        //ListaInversa.listaInversa(); // acabei gerando um segundo vetor como solução alternativa
+        Consoantes.consoantes();
     }
 }
