@@ -25,10 +25,6 @@ public class Temperaturas {
         }
         float media = (float)soma/listaTemperaturas.size();
         System.out.println("Média semestral = "+media);
-
-
-
-
         /*
         String tempAcimaMedia;
         for (int temperature : listaTemperaturas){
@@ -37,7 +33,6 @@ public class Temperaturas {
         }
         float media = (float)soma/listaTemperaturas.size();
         */
-
 
         int i = 0;
         System.out.println("Temperaturas acima da média semestral:");

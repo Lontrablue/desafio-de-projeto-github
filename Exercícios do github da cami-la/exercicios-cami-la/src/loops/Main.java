@@ -4,6 +4,7 @@ import arrays.ArrayMulti;
 import arrays.Consoantes;
 import arrays.ListaInversa;
 import arrays.NumerosAleatorios;
+import collections.Crime;
 import collections.Temperaturas;
 
 import java.util.*;
@@ -19,8 +20,8 @@ public class Main {
         // Consoantes.consoantes();
         //NumerosAleatorios.numerosAleatorios();
         //ArrayMulti.arrayMulti();
-        Temperaturas.temperaturas();
-
+        //Temperaturas.temperaturas();
+        Crime.crime();
 
 
 
