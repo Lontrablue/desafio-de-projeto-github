@@ -6,12 +6,15 @@ import arrays.ListaInversa;
 import arrays.NumerosAleatorios;
 import collections.ConhecendoMetodosList;
 import collections.Crime;
+import collections.OrdenandoListas;
 import collections.Temperaturas;
 
 import java.util.*;
 
 public class Main {
     public static void main(String[] args) {
+
+
 
         //NomeIdade.nomeIdade();
         //Nota.nota();
@@ -23,10 +26,8 @@ public class Main {
         //ArrayMulti.arrayMulti();
         //Temperaturas.temperaturas();
         //Crime.crime();
-        ConhecendoMetodosList.conhecendoMetodosList();
-
-
-
+        //ConhecendoMetodosList.conhecendoMetodosList();
+        //OrdenandoListas.ordenandoListas();
 
     }
 }
