@@ -4,10 +4,7 @@ import arrays.ArrayMulti;
 import arrays.Consoantes;
 import arrays.ListaInversa;
 import arrays.NumerosAleatorios;
-import collections.ConhecendoMetodosList;
-import collections.Crime;
-import collections.OrdenandoListas;
-import collections.Temperaturas;
+import collections.*;
 
 import java.util.*;
 
@@ -15,7 +12,7 @@ public class Main {
     public static void main(String[] args) {
 
 
-
+        ExerciciosPropostos.exercicio1();
         //NomeIdade.nomeIdade();
         //Nota.nota();
         //MaiorMedia.maiorMedia();
@@ -28,7 +25,8 @@ public class Main {
         //Crime.crime();
         //ConhecendoMetodosList.conhecendoMetodosList();
         //OrdenandoListas.ordenandoListas();
-
+        //AprendendoSets.aprendendoSets();
+ 
     }
 }
 
