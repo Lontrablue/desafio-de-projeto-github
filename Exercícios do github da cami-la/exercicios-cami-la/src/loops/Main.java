@@ -11,8 +11,8 @@ import java.util.*;
 public class Main {
     public static void main(String[] args) {
 
-
-        ExerciciosPropostos.exercicio1();
+        ExercicioProposto03.exercicio03();
+        //ExerciciosPropostos.exercicio1();
         //NomeIdade.nomeIdade();
         //Nota.nota();
         //MaiorMedia.maiorMedia();

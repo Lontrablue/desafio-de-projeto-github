@@ -4,7 +4,7 @@ package collections;
 import java.util.*;
 
 public class ExerciciosPropostos {
-    @Override
+   /* @Override
     public int hashCode() {
         return super.hashCode();
     }
@@ -12,7 +12,7 @@ public class ExerciciosPropostos {
     @Override
     public boolean equals(Object obj) {
         return super.equals(obj);
-    }
+    }*/
 
     public static void exercicio1()
     {
