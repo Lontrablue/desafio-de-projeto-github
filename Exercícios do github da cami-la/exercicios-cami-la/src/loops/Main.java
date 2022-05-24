@@ -5,13 +5,14 @@ import arrays.Consoantes;
 import arrays.ListaInversa;
 import arrays.NumerosAleatorios;
 import collections.*;
+import exceptions.ExceptionCustomizada;
 
 import java.util.*;
 
 public class Main {
     public static void main(String[] args) {
-
-        ExercicioProposto03.exercicio03();
+        ExceptionCustomizada.exceptionCustomizada();
+        //ExercicioProposto03.exercicio03();
         //ExerciciosPropostos.exercicio1();
         //NomeIdade.nomeIdade();
         //Nota.nota();
