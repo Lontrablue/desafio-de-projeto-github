@@ -4,16 +4,19 @@ import exercicio2.Faxineiro;
 import exercicio2.Funcionario;
 import exercicio2.Gerente;
 import exercicio2.Vendedor;
+import exercicioInterface.Calculadora;
 
 public class Main {
     public static void main(String[] args) {
-        Funcionario funcionario = new Funcionario();
+
+        
+       /* Funcionario funcionario = new Funcionario();
 
         Funcionario gerente = new Gerente();
         Funcionario vendedor = new Vendedor();
         Funcionario faxineiro = new Faxineiro();
 
-        Vendedor vendedor_ = (Vendedor) new Funcionario();
+        Vendedor vendedor_ = (Vendedor) new Funcionario();*/
 
         /*Vericulo vericulo1 = new Vericulo();
 
