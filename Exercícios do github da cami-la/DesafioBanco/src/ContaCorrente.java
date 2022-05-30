@@ -9,4 +9,14 @@ public class ContaCorrente extends Conta{
         super.historico = new LinkedList<>();
     }
 
+    @Override
+    public void imprimirRendimentoEstimado() {
+
+    }
+
+    @Override
+    public double calcularRendimento() {
+        return 0;
+    }
+
 }

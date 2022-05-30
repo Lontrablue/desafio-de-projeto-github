@@ -10,7 +10,7 @@ public abstract class Conta implements OperacoesBasicasConta{
     protected LinkedList<String> historico;
 
     public Conta(){
-        this.numeroDeConta = Conta.SEQUENCIAL++;
+        this.numeroDeConta = SEQUENCIAL++;
         this.agencia = agencia;
         this.saldo = saldo;
         this.nomeTitular = null;
@@ -49,7 +49,6 @@ public abstract class Conta implements OperacoesBasicasConta{
         System.out.println(saldo);
     }
 
-
     public String getNomeTitular() {
         return nomeTitular;
     }
@@ -69,4 +68,7 @@ public abstract class Conta implements OperacoesBasicasConta{
     public LinkedList<String> getHistorico() {
         return historico;
     }
+
+
+    public abstract double calcularRendimento();
 }
